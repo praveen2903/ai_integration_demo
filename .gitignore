@@ -22,3 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+echo "server/.env" >> .gitignore
+
+server/.env
