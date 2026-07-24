@@ -23,7 +23,7 @@ interface ChatMessage {
 
 type MainTab = 'dashboard' | 'code-guide' | 'logs';
 
-const API_BASE = 'https://ai-integration-demo-thlm.onrender.com/api';
+const API_BASE = 'https://ai-integration-demo-mz1k.onrender.com/api';
 
 function App() {
   const [activeTab, setActiveTab] = useState<MainTab>('dashboard');
